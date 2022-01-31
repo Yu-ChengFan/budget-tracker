@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Yu-ChengFan/budget-tracker#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.17.2",
-    "mongoose": "^6.1.8"
+    "mongoose": "^6.1.8",
+    "morgan": "^1.10.0"
   }
 }
